@@ -1,0 +1,5 @@
+name "fuzzymatch"
+description "Dead-simple, efficient string and array fuzzy matching library (string.contains, but better)"
+authors "webfreak"
+copyright "Copyright (C) 2023 webfreak"
+license "Unlicense"

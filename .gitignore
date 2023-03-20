@@ -1,0 +1,19 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/fuzzymatch
+fuzzymatch.so
+fuzzymatch.dylib
+fuzzymatch.dll
+fuzzymatch.a
+fuzzymatch.lib
+fuzzymatch-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
+.vscode
+# script-generated docs to manually copy-paste into readme and extend
+fuzzymatch.md
